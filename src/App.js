@@ -19,8 +19,6 @@ function App() {
         <Navbar />
         <Slider start={banner.start} />
         <Offer offer={data.offer} />
-        <Heading text="STAR PRODUCTS" />
-        <Starproduct product={data.starProduct} />
         <Heading text=" Hot Accessories" />
         <AccessoriesMenu />
         <Routes>
