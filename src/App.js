@@ -6,7 +6,6 @@ import Slider from "./components/Slider";
 import Offer from "./components/Offer";
 import data from "./data/data.json";
 import Heading from "./components/Heading.js";
-import Starproduct from "./components/Starproduct.js";
 import AccessoriesMenu from "./components/Accessoriesmenu.js";
 import Accessories from "./components/Accessories.js";
 import Videos from "./components/Videos.js";
