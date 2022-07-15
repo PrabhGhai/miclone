@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miclone/static/css/main.79b28385.css",
+    "main.js": "/miclone/static/js/main.914f09c0.js",
+    "static/js/787.c1d484c8.chunk.js": "/miclone/static/js/787.c1d484c8.chunk.js",
+    "index.html": "/miclone/index.html",
+    "main.79b28385.css.map": "/miclone/static/css/main.79b28385.css.map",
+    "main.914f09c0.js.map": "/miclone/static/js/main.914f09c0.js.map",
+    "787.c1d484c8.chunk.js.map": "/miclone/static/js/787.c1d484c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b28385.css",
+    "static/js/main.914f09c0.js"
+  ]
+}
