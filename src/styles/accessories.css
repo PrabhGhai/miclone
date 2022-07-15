@@ -1,0 +1,12 @@
+.hotaccessories{
+    text-decoration: none !important;
+    color:black !important;
+    
+   
+}
+.hotaccessories:hover{
+    border-bottom: 1px solid orangered !important;
+    transition: all 0.2s !important;
+    color:orangered !important;
+    
+}

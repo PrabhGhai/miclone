@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    cursor: pointer;
+}
+.card:hover{
+    transition: all 0.2s;
+    transform: translateY(-10px);
+    box-shadow: 6px 6px 12px gray;
+}
